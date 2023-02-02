@@ -21,11 +21,11 @@
     "IconUrl": null,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.2.0",
-    "LastUpdated": 1675322242,
+    "AssemblyVersion": "1.0.2.1",
+    "LastUpdated": 1675325172,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.1/latest.zip"
   }
 ]
