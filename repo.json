@@ -1,0 +1,31 @@
+[
+  {
+    "Author": "Ramen",
+    "Name": "XIVReminders",
+    "Punchline": "Keep track of everything in one place",
+    "Description": "A plugin to track your Retainers, Gear wear, Spiritbonding, Tomestones and more!",
+    "Tags": [
+      "Retainer",
+      "Account",
+      "Timer",
+      "Tasks",
+      "Cactpot",
+      "Utility"
+    ],
+    "InternalName": "XIVReminders",
+    "RepoUrl": "https://github.com/PassiveModding/XIVReminders",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "IconUrl": null,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "1.0.2.0",
+    "LastUpdated": 1675322242,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/PassiveModding/XIVReminders/releases/download/1.0.2.0/latest.zip"
+  }
+]
